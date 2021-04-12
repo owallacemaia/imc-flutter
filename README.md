@@ -4,7 +4,7 @@ Aplicativo criado para o trabalho da faculdade Ciências da Computação - Unife
 
 Aula - Programação para disp. móveis.
 
-#Fotos do projeto!
+# Fotos do projeto!
 
 <img src="https://i.imgur.com/EX0ZCW3.png" height="500px">
 
