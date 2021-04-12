@@ -6,12 +6,10 @@ Aula - Programação para disp. móveis.
 
 #Fotos do projeto!
 
-![img](https://imgur.com/EX0ZCW3)
+<img src="https://i.imgur.com/EX0ZCW3.png" height="500px">
 
-![img](https://imgur.com/EX0ZCW3)
+<img src="https://i.imgur.com/iAOq5WI.png" height="500px">
 
-![img](https://imgur.com/iAOq5WI)
+<img src="https://i.imgur.com/DfmBkf4.png" height="500px">
 
-![img](https://imgur.com/DfmBkf4)
-
-![img](https://imgur.com/FSskyeY)
+<img src="https://i.imgur.com/FSskyeY.png" height="500px">
