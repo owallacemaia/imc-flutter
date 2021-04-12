@@ -1,16 +1,17 @@
-# calculo_imc
+# Calculo IMC/IAC - Flutter
 
-App de calculo de IMC
+Aplicativo criado para o trabalho da faculdade Ciências da Computação - Unifenas.
 
-## Getting Started
+Aula - Programação para disp. móveis.
 
-This project is a starting point for a Flutter application.
+#Fotos do projeto!
 
-A few resources to get you started if this is your first Flutter project:
+![img](https://imgur.com/EX0ZCW3)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![img](https://imgur.com/EX0ZCW3)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![img](https://imgur.com/iAOq5WI)
+
+![img](https://imgur.com/DfmBkf4)
+
+![img](https://imgur.com/FSskyeY)
