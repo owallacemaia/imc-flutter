@@ -12,4 +12,3 @@ Aula - Programação para disp. móveis.
 
 <img src="https://i.imgur.com/DfmBkf4.png" height="500px">
 
-<img src="https://i.imgur.com/FSskyeY.png" height="500px">
