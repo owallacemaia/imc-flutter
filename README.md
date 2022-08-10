@@ -1,6 +1,6 @@
 # Calculo IMC/IAC - Flutter
 
-Aplicativo criado para o trabalho da faculdade Ciências da Computação - Unifenas.
+Ciências da Computação - Unifenas.
 
 Aula - Programação para disp. móveis.
 
